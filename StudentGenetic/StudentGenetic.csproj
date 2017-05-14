@@ -59,7 +59,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Simulation\DNA.cs" />
+    <Compile Include="Simulation\Gens.cs" />
     <Compile Include="Simulation\LifeEnvironment.cs" />
     <Compile Include="Simulation\LifeEvents.cs" />
     <Compile Include="Simulation\EnviroEvents.cs" />
