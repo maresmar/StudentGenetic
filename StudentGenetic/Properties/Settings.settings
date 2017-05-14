@@ -1,0 +1,42 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="StudentGenetic.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="timetableMaxHoursInDay" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="timetableHoursInWeek" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">17</Value>
+    </Setting>
+    <Setting Name="numberOfStudents" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="logSize" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">50</Value>
+    </Setting>
+    <Setting Name="coefLerning" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.8</Value>
+    </Setting>
+    <Setting Name="coefSchoolActive" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">75</Value>
+    </Setting>
+    <Setting Name="coefSchoolPasive" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">40</Value>
+    </Setting>
+    <Setting Name="coefLongTermMemory" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.05</Value>
+    </Setting>
+    <Setting Name="coefRest" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">1.2</Value>
+    </Setting>
+    <Setting Name="timeToHome" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="homeFood" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">90</Value>
+    </Setting>
+    <Setting Name="coefGiveUp" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.5</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
