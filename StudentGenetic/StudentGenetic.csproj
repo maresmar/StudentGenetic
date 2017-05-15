@@ -96,6 +96,7 @@
     <EmbeddedResource Include="UI\SettingsForm.resx">
       <DependentUpon>SettingsForm.cs</DependentUpon>
     </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
     <None Include="Properties\DataSources\StudentGenetic.Properties.Settings.datasource" />
     <None Include="Properties\DataSources\StudentGenetic.Properties.Settings1.datasource" />
     <None Include="Properties\Settings.settings">
